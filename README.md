@@ -15,3 +15,12 @@ Para iniciar em modo de desenvolvimento:
 Para instalar o node [clique aqui](https://nodejs.org/en/)
 
 ## Professor Douglas Morais
+
+
+## Forked by Anne Pinho
+  Configurações para Windows arquivo package.json
+ 
+ `
+   "start": "webpack serve --open --config webpack.dev.js",
+    "sass": "sass --watch src/assets/sass/style.scss:src/css/style.css",
+ `
